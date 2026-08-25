@@ -1,0 +1,32 @@
+bookmarks = {
+    bookmark = {
+        name = "1934: The Gathering Storm"
+        desc = "The fabric of European order is unraveling. With the sudden death of Vladimir Lenin in 1934, the Soviet Union plunges into a fierce succession crisis between Stalin, Trotsky, and Bukharin. Amidst this power vacuum, the German military junta rearms and instigates a covert proxy war across the Polish buffer state. As old orders crumble and ideologies clash, the continent stands on the brink of a new Great War."
+        date = 1934.1.1.12
+        picture = "GFX_select_date_1936"
+        
+        default_country = "GER"
+        
+        "GER" = {
+            history = "Under the iron rule of the military junta, Germany has discarded its parliamentary facade. The generals' objective is absolute: the total revision of the post-war order and the restoration of German dominance. Moscow's paralysis presents a golden opportunity. By secretly arming anti-communist insurgents in Poland, Berlin aims to reclaim Posen and redraw its eastern frontiers. Can the junta control the flames it has ignited, or will this covert war trigger total conflict?"
+        }
+        "SOV" = {
+            history = "The death of Vladimir Lenin in 1934 has sent shockwaves through the Kremlin. The Politburo is paralyzed: Stalin consolidates his party apparatus, Trotsky demands immediate permanent revolution, and Bukharin warns against economic ruin. While Moscow tears itself apart internally, control over the socialist Polish buffer state is slipping away under German sabotage. The Soviet Union must resolve its internal war before its entire western flank collapses."
+        }
+        "ENG" = {
+            history = ""
+        }
+        "FRA" = {
+            history = ""
+        }
+        "ITA" = {
+            history = ""
+        }
+        "USA" = {
+            history = ""
+        }
+        "JAP" = {
+            history = ""
+        }
+    }
+}

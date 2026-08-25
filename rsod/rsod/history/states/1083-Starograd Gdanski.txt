@@ -1,0 +1,22 @@
+state = {
+    id = 1083
+    name = "Starograd Gdanski"
+    manpower = 120000
+    state_category = rural
+
+    history = {
+        owner = POL
+        controller = POL
+        add_core_of = POL
+	add_core_of = GER
+        buildings = {
+            infrastructure = 3
+        }
+    }
+
+    provinces = {
+        279 243 3295 6347
+    }
+
+    local_supplies = 0.0
+}

@@ -1,0 +1,43 @@
+state = {
+	id = 807
+	name = "STATE_807"
+	manpower = 713370
+	
+	state_category = city
+
+	history = {
+
+		owner = GER
+		add_core_of = POL
+		add_core_of = KSH
+		add_claim_by = PRE
+                add_core_of = GER
+
+		victory_points = {
+			9263 5 # Gdynia
+		}
+
+		victory_points = {
+			3295 5 # Torun
+		}
+
+		
+
+		buildings = {
+			infrastructure = 3 #was: 6
+			arms_factory = 2
+			industrial_complex = 1
+			air_base = 2
+			9263 = {
+				naval_base = 1
+			}
+		}
+		
+			}
+
+	provinces = {
+		334 389 3324 9263
+	}
+
+	local_supplies = 0.0 
+}

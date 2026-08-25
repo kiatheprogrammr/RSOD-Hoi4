@@ -1,0 +1,27 @@
+state={
+	id=1084
+	name="STATE_1084"
+	state_category = town
+
+	history={
+		owner = POL
+		victory_points = {
+			11479 3
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			air_base = 5
+		}
+		add_core_of = POL
+		add_core_of = UKR
+	}
+
+	provinces={
+		536 9468 11479
+	}
+
+	manpower=1200000
+	buildings_max_level_factor=6
+	local_supplies=0
+}

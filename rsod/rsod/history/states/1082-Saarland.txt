@@ -1,0 +1,27 @@
+state = {
+	id = 1082
+	name = "Saarland"
+	manpower = 800000
+	state_category = town
+
+	history = {
+		owner = FRA
+		controller = FRA
+		add_core_of = FRA
+
+		victory_points = {
+			11531 5
+		}
+
+		buildings = {
+			infrastructure = 3
+			11531 = {
+				land_fort = 2
+			}
+		}
+	}
+
+	provinces = {
+		11531
+	}
+}
