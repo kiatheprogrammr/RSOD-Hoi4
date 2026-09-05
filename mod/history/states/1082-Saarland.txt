@@ -7,7 +7,7 @@ state = {
 	history = {
 		owner = FRA
 		controller = FRA
-		add_core_of = GER
+		add_core_of = FRA
 
 		victory_points = {
 			11531 5
@@ -16,7 +16,7 @@ state = {
 		buildings = {
 			infrastructure = 3
 			11531 = {
-				bunker = 2
+				land_fort = 2
 			}
 		}
 	}

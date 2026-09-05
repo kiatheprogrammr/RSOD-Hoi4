@@ -56,6 +56,9 @@ state = {
 				9575 = {
 					bunker = 2
 				}
+				11531 = {
+					bunker = 2
+				}
 				563 = {
 					bunker = 2
 				}
