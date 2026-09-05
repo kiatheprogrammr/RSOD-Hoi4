@@ -1,5 +1,6 @@
-﻿
-capital = 64 # Berlin/Brandeburg
+﻿capital = 64 # Berlin/Brandeburg[cite: 2]
+
+	set_cosmetic_tag = GER_military_junta
 
 if = {
 	limit = {
@@ -854,28 +855,23 @@ set_war_support = 0.3
 
 # Setup German Politics
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = Despotic
 	last_election = "1929.3.5"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 4
-	fascism = 24
-	communism = 20
-	neutrality = 52
+    Marxist_Leninist = 7
+	Stalinism = 9
+	Trotskyism = 2
+	Social_Democracy = 2
+	Liberalism = 1
+	Conservatism = 4
+	Reactionary = 10
+	Despotic = 37
+	Fascism = 27
+	Third_position = 1
 }
-create_country_leader = {
-	name = "Kurt von Schleicher"
-	desc = "Following the collapse of the civilian government, a military transitional government has taken control of the nation. At its helm stands a triumvirate led by Chancellor Kurt von Schleicher alongside two high-ranking Reichswehr generals. The primary goal of this council is to restore domestic order, crush extremist insurgencies, and prepare for the total restoration of German dominance."
-	picture = "gfx/leaders/GER/Portrait_Germany_Kurt_von_Schleicher.dds"
-	expire = "1965.1.1"
-	ideology = despotism
-	traits = {
-		dictator
-	}
-}
-
 
 # Wowow nice faction
 create_faction_from_template = faction_template_axis
@@ -893,6 +889,8 @@ add_ideas = {
 activate_mission = GER_mefo_bills_mission
 
 # Character Recruitment
+recruit_character = GER_oberste_heeresleitung
+promote_character = GER_oberste_heeresleitung
 recruit_character = GER_wilhelm_pieck
 recruit_character = GER_konrad_adenauer
 recruit_character = GER_adolf_hitler
@@ -1023,7 +1021,6 @@ if = {
 	recruit_character = GER_hans_luther
 	recruit_character = GER_hermann_erhardt
 	recruit_character = GER_dietrich_bonhoeffer
-	recruit_character = GER_oberste_heeresleitung_character
 	recruit_character = GER_franz_ritter_von_epp
 	recruit_character = GER_walter_ulbricht
 	if = {
@@ -1856,3 +1853,6 @@ if = {
 	#	obsolete = yes
 	#}
 }
+
+
+

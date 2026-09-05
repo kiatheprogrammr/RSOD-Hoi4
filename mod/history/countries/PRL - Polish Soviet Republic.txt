@@ -1,0 +1,27 @@
+﻿capital = 10
+
+oob = "PRL_1936"
+
+set_convoys = 0
+set_war_support = 0.7
+set_politics = {
+	ruling_party = Stalinism
+	last_election = "1927.4.4"
+	election_frequency = 36
+	elections_allowed = no
+}
+set_popularities = {
+    Marxist_Leninist = 20
+	Stalinism = 14
+	Trotskyism = 4
+	Social_Democracy = 10
+	Liberalism = 18
+	Conservatism = 10
+	Reactionary = 3
+	Despotic = 6
+	Fascism = 2
+	Third_position = 13
+}
+
+
+

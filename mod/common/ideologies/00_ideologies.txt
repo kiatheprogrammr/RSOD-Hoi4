@@ -1,0 +1,359 @@
+ideologies = {	
+
+        Marxist_Leninist = {
+	
+		types = {
+
+			marxism = {
+			can_be_randomly_selected = no
+			}
+
+			leninism = {
+			can_be_randomly_selected = no
+			}
+
+		}
+
+		color = { 153 0 0 }
+
+		war_impact_on_world_tension = 0.75	
+		faction_impact_on_world_tension = 0.5
+
+		ai_communist = yes 
+		ai_ideology_wanted_units_factor = 1.20
+
+		rules = {
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = no
+			can_force_government = no
+			can_puppet = no
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = no
+            can_join_factions = no
+			can_leave_factions = no
+			can_send_volunteers = yes
+		}
+		can_host_government_in_exile = yes
+
+	}
+
+	Stalinism = {
+	
+		types = {
+
+
+			stalinism = {
+			can_be_randomly_selected = no
+			}
+
+
+		}
+
+		color = { 191 0 0 }
+
+		war_impact_on_world_tension = 0.75	
+		faction_impact_on_world_tension = 0.5
+
+		ai_communist = yes 
+		ai_ideology_wanted_units_factor = 1.20
+
+		rules = {
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = no
+			can_force_government = no
+			can_puppet = no
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = no
+            can_join_factions = no
+			can_leave_factions = no
+			can_send_volunteers = yes
+		}
+		can_host_government_in_exile = yes
+
+	}
+		Trotskyism = {
+
+		types = {
+
+			Trotskyist = {
+			can_be_randomly_selected = no
+			}
+
+		}
+
+		color = { 255 25 25 }
+
+		war_impact_on_world_tension = 0.75	
+		faction_impact_on_world_tension = 0.5
+
+		ai_communist = yes 
+		ai_ideology_wanted_units_factor = 1.20
+
+		rules = {
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = no
+			can_force_government = no
+			can_puppet = no
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = no
+            can_join_factions = no
+			can_send_volunteers = yes
+		}
+		can_host_government_in_exile = yes
+
+	}
+			Social_Democracy = {
+
+		types = {
+
+			social_democrat = {
+			can_be_randomly_selected = no
+			}
+
+			social_patriotism = {
+			can_be_randomly_selected = no
+			}
+
+		}
+
+		color = { 229 132 4 }
+
+		war_impact_on_world_tension = 0.75	
+		faction_impact_on_world_tension = 0.5
+
+		ai_democratic = yes 
+		ai_ideology_wanted_units_factor = 1.20
+
+		rules = {
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = no
+			can_force_government = no
+			can_puppet = no
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = no
+            can_join_factions = no
+			can_send_volunteers = yes
+		}
+		can_host_government_in_exile = yes
+
+	}
+
+	Liberalism = {
+
+		types = {
+
+
+			liberalist = {
+			can_be_randomly_selected = no
+			}
+
+			populism = {
+			can_be_randomly_selected = no
+			}
+
+		}
+
+		color = { 50 88 138 }
+
+		rules = {
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = no
+			can_force_government = no
+			can_puppet = no
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = no
+            can_join_factions = no
+			can_send_volunteers = yes
+		}
+
+		can_host_government_in_exile = yes
+
+		war_impact_on_world_tension = 0.25	
+		faction_impact_on_world_tension = 0.1
+
+
+		ai_democratic = yes 
+		ai_ideology_wanted_units_factor = 1.10 
+		
+	}
+		Conservatism = {
+
+		types = {
+
+
+			Conservatist = {
+			can_be_randomly_selected = no
+			}
+
+			constitutionalist = {
+			can_be_randomly_selected = no
+			}
+
+		}
+
+		color = { 67 100 119 }
+
+		rules = {
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = no
+			can_force_government = no
+			can_puppet = no
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = no
+            can_join_factions = no
+			can_send_volunteers = yes
+		}
+
+		can_host_government_in_exile = yes
+
+		war_impact_on_world_tension = 0.25	
+		faction_impact_on_world_tension = 0.1
+
+
+		ai_democratic = yes 
+		ai_ideology_wanted_units_factor = 1.10 
+		
+	}
+		Reactionary = {
+
+		types = {
+
+
+			Reactionarist  = {
+			can_be_randomly_selected = no
+			}
+
+
+
+		}
+
+
+		color = { 0 58 78 }
+
+
+		war_impact_on_world_tension = 0.25	
+		faction_impact_on_world_tension = 0.1
+
+		rules = {
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = no
+			can_force_government = no
+			can_puppet = no
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = no
+            can_join_factions = no
+			can_send_volunteers = yes
+		}
+
+
+		ai_neutral = yes 
+		ai_ideology_wanted_units_factor = 1.15
+		
+	}
+		Despotic = {
+
+		types = {
+
+			despotism  = {
+			can_be_randomly_selected = no
+			}
+
+		}
+
+
+		color = { 96 96 96 }
+
+
+		war_impact_on_world_tension = 0.25	
+		faction_impact_on_world_tension = 0.1
+
+		rules = {
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = no
+			can_force_government = no
+			can_puppet = no
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = no
+            can_join_factions = no
+			can_send_volunteers = yes
+		}
+
+
+		ai_neutral = yes 
+		ai_ideology_wanted_units_factor = 1.15
+		
+	}
+			Third_position = {
+
+		types = {
+			Third_positionist = {
+			can_be_randomly_selected = no
+			}
+
+
+		}
+
+		color = { 0 0 0 }
+
+		war_impact_on_world_tension = 1.0		
+		faction_impact_on_world_tension = 1.0
+
+		rules = {
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = no
+			can_force_government = no
+			can_puppet = no
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = no
+            can_join_factions = no
+			can_send_volunteers = yes
+		}
+
+
+		ai_fascist = yes 
+		ai_ideology_wanted_units_factor = 1.65
+		
+	}
+	Fascism = {
+
+		types = {
+			Fascist = {
+			can_be_randomly_selected = no
+			}
+
+
+		}
+
+		color = { 64 64 64 }
+
+		war_impact_on_world_tension = 1.0		
+		faction_impact_on_world_tension = 1.0
+
+		rules = {
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = no
+			can_force_government = no
+			can_puppet = no
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = no
+            can_join_factions = no
+			can_send_volunteers = yes
+		}
+
+
+		ai_fascist = yes 
+		ai_ideology_wanted_units_factor = 1.65
+		
+	}
+
+}
