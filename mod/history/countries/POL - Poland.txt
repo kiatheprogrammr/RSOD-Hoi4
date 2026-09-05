@@ -22,3 +22,6 @@ set_popularities = {
 	Fascism = 2
 	Third_position = 10
 }
+
+
+
