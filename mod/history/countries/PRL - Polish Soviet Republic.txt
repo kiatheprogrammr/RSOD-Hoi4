@@ -11,16 +11,16 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-    Marxist_Leninist = 20
+    Marxist_Leninist = 19
 	Stalinism = 14
 	Trotskyism = 4
 	Social_Democracy = 10
-	Liberalism = 18
-	Conservatism = 10
-	Reactionary = 3
+	Liberalism = 15
+	Conservatism = 9
+	Reactionary = 11
 	Despotic = 6
 	Fascism = 2
-	Third_position = 13
+	Third_position = 10
 }
 
 
