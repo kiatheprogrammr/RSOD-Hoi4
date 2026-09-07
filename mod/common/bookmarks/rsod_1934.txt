@@ -28,5 +28,15 @@ bookmarks = {
         "JAP" = {
             history = ""
         }
+						"PRL" = {
+			minor = no
+			history = "DVE_POL_BOOKMARK_DESC"
+			ideology = Stalinism
+			ideas = {
+			POL_underground_resistance
+			}
+			focuses = {
+			}
+		}
     }
 }
