@@ -1,0 +1,6 @@
+spriteTypes = {	
+
+	SpriteType = {
+		name = "GFX_idea_underground_resistance"
+		texturefile = "gfx/interface/ideas/POL_underground_resistance.dds"
+	}
