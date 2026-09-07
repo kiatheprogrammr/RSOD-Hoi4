@@ -29,7 +29,7 @@ bookmarks = {
             history = ""
         }
 						"PRL" = {
-			minor = no
+			minor = yes
 			history = "DVE_POL_BOOKMARK_DESC"
 			ideology = Stalinism
 			ideas = {
