@@ -1,4 +1,4 @@
-﻿capital = 10
+﻿capital = 1085
 
 oob = "PRL_1936"
 
