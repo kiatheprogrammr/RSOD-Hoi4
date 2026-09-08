@@ -1,17 +1,14 @@
 state={
-	id=10
-	name="STATE_10"
-	manpower = 408900
+	id=1085
+	name="STATE_1085"
+	manpower = 908900
 
 	state_category = large_city
 
 	history={
 		owner = PRL
 		victory_points = {
-			402 3 # Siedcle
-		}
-		victory_points = {
-			524 1 # Wolomin
+			3544 25 # Warszawa
 		}
 		buildings = {
 			infrastructure = 4
@@ -21,11 +18,11 @@ state={
 			air_base = 5
 		}
 		add_core_of = POL
-		add_core_of = PRL
+add_core_of = PRL
 	}
 
 	provinces={
-		402 524 12562
+		3544
 	}
 
 	local_supplies=7.0 
