@@ -1,0 +1,27 @@
+﻿capital = 67
+
+oob = "PSL_1934"
+
+set_convoys = 0
+set_war_support = 0.7
+set_politics = {
+	ruling_party = Despotic
+	last_election = "1921.4.4"
+	election_frequency = 36
+	elections_allowed = no
+}
+set_popularities = {
+    Totalitarianism = 0
+	Vanguard_Socialism = 0
+	Radical_Socialism = 0
+	Social_Democracy = 0
+	Liberalism = 38
+	Conservatism = 22
+	Reactionary = 10
+	Despotic = 30
+	Fascism = 0
+	Third_position = 0
+}
+
+
+

@@ -8,9 +8,9 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-    Marxist_Leninist = 7
-	Stalinism = 9
-	Trotskyism = 2
+    Totalitarianism = 7
+	Vanguard_Socialism = 9
+	Radical_Socialism = 2
 	Social_Democracy = 2
 	Liberalism = 1
 	Conservatism = 4
