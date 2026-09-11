@@ -1,24 +1,34 @@
 ﻿l_english:
  GER_fascism:0 "German Reich"
  GER_fascism_DEF:0 "the German Reich"
+ 
  GER_Third_position:0 "German Reich"
  GER_Third_position_DEF:0 "the German Reich"
+ 
  GER_Liberalism:0 "German Republic"
  GER_Liberalism_DEF:0 "The German Republic"
+ 
  GER_Conservatism:0 "German Republic"
  GER_Conservatism_DEF:0 "The German Republic"
+ 
  GER_Social_Democracy:0 "Federal Republic Of Germany"
  GER_Social_Democracy_DEF:0 "The Federal Republic Of Germany"
+ 
  GER_Despotic:0 "German Military Administration"
  GER_Despotic_DEF:0 "The Military Administration of Germany"
+ 
  GER_Reactionary:0 "German Empire"
  GER_Reactionary_DEF:0 "The German Empire"
- GER_Marxist_Leninist:0 "German Republic"
- GER_Marxist_Leninist_DEF:0 "the German Republic"
- GER_Stalinism:0 "German Republic"
- GER_Stalinism_DEF:0 "the German Republic"
- GER_Trotskyism:0 "German Republic"
- GER_Trotskyism_DEF:0 "the German Republic"
+ 
+ GER_Totalitarianism:0 "German Republic"
+ GER_Totalitarianism_DEF:0 "the German Republic"
+ GER_Vanguard_Socialism:0 "German Republic"
+ GER_Vanguard_Socialism_DEF:0 "the German Republic"
+ GER_Radical_Socialism:0 "German Republic"
+ GER_Radical_Socialism_DEF:0 "the German Republic"
+ GER:0 "Germany"
+ GER_DEF:0 "Germany"
+ GER_ADJ:0 "German"
  
  PRL_fascism:0 "Polish Empire"
  PRL_fascism_DEF:0 "the Polish Empire"
