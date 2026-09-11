@@ -1,13 +1,13 @@
 ﻿l_english:
 
- Marxist_Leninist: "Marxist Leninism"
- Marxist_Leninist_desc: "§R §!"
+ Totalitarianism: "Totalitarianism"
+ Totalitarianism_desc: "§R §!"
 
- Stalinism: "Stalinism"
- Stalinism_desc: "§R §!"
+ Vanguard_Socialism: "Vanguard Socialism"
+ Vanguard_Socialism_desc: "§R §!"
  
- Trotskyism: "Trotskyism"
- Trotskyism_desc: "§R §!"
+ Radical_Socialism: "Trotskyism"
+ Radical_Socialism: "§R §!"
  
  Social_Democracy: "Social Democracy"
  Social_Democracy_desc: "§Y Social liberalism combined individual freedom and free markets with social reforms. It supported democracy, civil rights, welfare programs, and government action to reduce poverty and inequality while maintaining private property and personal freedoms. §!"
@@ -21,8 +21,11 @@
  Reactionary: "Reactionarism"
  Reactionary_desc: "§B §!"
  
- Despotic: "Despotism"
- Despotic_desc: "§g Despotism emphasized the importance of the military in national life and politics. It promoted strong armed forces, discipline, national strength, and preparedness for war, often giving military leaders greater influence over the government. §!"
+ Authoritarian_Democracy: "Authoritarian Democracy"
+ Authoritarian_Democracy_desc: "§g  §!"
+ 
+ Paternal_Autocracy: "Paternal Autocracy"
+ Paternal_Autocracy_desc: "§g  §!"
  
  Fascism: "Fascism"
  Fascism_desc: "§K Fascism was an authoritarian and ultranationalist ideology that emphasized national unity, strong leadership, militarism, and opposition to liberal democracy and communism. Fascist movements sought to place the interests of the nation above individual political freedoms. §!"
