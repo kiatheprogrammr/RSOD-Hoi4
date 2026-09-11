@@ -17,9 +17,8 @@ set_popularities = {
 	Social_Democracy = 0
 	Liberalism = 25
 	Conservatism = 20
-	Reactionary = 10
-	Authoritarian_Democracy = 30
-	Paternal_Autocracy = 15
+	Authoritarian_Democracy = 35
+	Paternal_Autocracy = 20
 	Fascism = 0
 	Third_position = 0
 }
