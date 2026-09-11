@@ -2,7 +2,7 @@
 
 
 set_politics = {
-	ruling_party = Despotic
+	ruling_party = Authoritarian_Democracy
 	last_election = "1929.3.5"
 	election_frequency = 48
 	elections_allowed = no
@@ -15,8 +15,9 @@ set_popularities = {
 	Liberalism = 1
 	Conservatism = 4
 	Reactionary = 10
-	Despotic = 37
-	Fascism = 27
+	Authoritarian_Democracy = 37
+	Paternal_Autocracy = 7
+	Fascism = 20
 	Third_position = 1
 }
 
