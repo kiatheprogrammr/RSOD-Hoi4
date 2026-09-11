@@ -1,14 +1,10 @@
 ideologies = {	
 
-        Marxist_Leninist = {
+        Totalitarianism = {
 	
 		types = {
 
 			marxism = {
-			can_be_randomly_selected = no
-			}
-
-			leninism = {
 			can_be_randomly_selected = no
 			}
 
@@ -38,7 +34,7 @@ ideologies = {
 
 	}
 
-	Stalinism = {
+	Vanguard_Socialism = {
 	
 		types = {
 
@@ -73,7 +69,7 @@ ideologies = {
 		can_host_government_in_exile = yes
 
 	}
-		Trotskyism = {
+		Radical_Socialism = {
 
 		types = {
 
@@ -257,7 +253,7 @@ ideologies = {
 		ai_ideology_wanted_units_factor = 1.15
 		
 	}
-		Despotic = {
+		Authoritarian_Democracy = {
 
 		types = {
 
@@ -269,6 +265,40 @@ ideologies = {
 
 
 		color = { 96 96 96 }
+
+
+		war_impact_on_world_tension = 0.25	
+		faction_impact_on_world_tension = 0.1
+
+		rules = {
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = no
+			can_force_government = no
+			can_puppet = no
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = no
+            can_join_factions = no
+			can_send_volunteers = yes
+		}
+
+
+		ai_neutral = yes 
+		ai_ideology_wanted_units_factor = 1.15
+		
+	}
+			Paternal_Autocracy = {
+
+		types = {
+
+			despotism  = {
+			can_be_randomly_selected = no
+			}
+
+		}
+
+
+		color = { 51 51 51 }
 
 
 		war_impact_on_world_tension = 0.25	
