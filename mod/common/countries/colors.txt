@@ -1,5 +1,8 @@
 #reload countrycolors
-
+PSL = {
+	color = rgb { 191 95 95 }
+	color_ui = rgb { 191 95 95 }
+}
 PRL = {
 	color = rgb { 153 61 61 }
 	color_ui = rgb { 153 61 61 }
