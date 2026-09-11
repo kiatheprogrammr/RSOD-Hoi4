@@ -1,0 +1,350 @@
+ideologies = {	
+
+        Totalitarianism = {
+	
+		types = {
+
+			Stalinism = {
+			}
+            War_Communism = { }
+            Centralist_Communism = { }
+            Bureaucratic_Communism = { }
+            Military_Communism = { }
+            One_Party_Technocracy = { }
+            Collectivist_Industrialism = { }
+            Police_State_Communism = { }
+
+		}
+
+		color = { 153 0 0 }
+
+		war_impact_on_world_tension = 0.75	
+		faction_impact_on_world_tension = 0.5
+
+		ai_communist = yes 
+		ai_ideology_wanted_units_factor = 1.20
+
+				rules = {
+			can_guarantee_other_ideologies = yes
+			can_send_volunteers = yes
+			can_puppet = no
+			can_join_factions = no
+			can_force_government = no
+			can_access_market = no
+		}
+		can_host_government_in_exile = yes
+
+	}
+
+	Vanguard_Socialism = {
+	
+		types = {
+
+
+			Marxism-Leninism = { }
+Trotskyism = { }
+Bolshevik_Centralism = { }
+National_Liberation Communism = { }
+Revolutionary Internationalism = { }
+Party_Vanguardism = { }
+Workers_State Socialism = { }
+
+
+		}
+
+		color = { 191 0 0 }
+
+		war_impact_on_world_tension = 0.75	
+		faction_impact_on_world_tension = 0.5
+
+		ai_communist = yes 
+		ai_ideology_wanted_units_factor = 1.20
+
+				rules = {
+			can_guarantee_other_ideologies = yes
+			can_send_volunteers = yes
+			can_puppet = no
+			can_join_factions = no
+			can_force_government = no
+			can_access_market = no
+		}
+		can_host_government_in_exile = yes
+
+	}
+		Radical_Socialism = {
+
+		types = {
+
+			Revolutionary Syndicalism = { }
+Anarcho_Syndicalism = { }
+Anarcho_Communism = { }
+Council_Communism = { }
+Libertarian Marxism = { }
+Agrarian_Revolutionary Socialism = { }
+Mutualism = { }
+Platformism = { }
+
+		}
+
+		color = { 255 25 25 }
+
+		war_impact_on_world_tension = 0.75	
+		faction_impact_on_world_tension = 0.5
+
+		ai_communist = yes 
+		ai_ideology_wanted_units_factor = 1.20
+
+				rules = {
+			can_guarantee_other_ideologies = yes
+			can_send_volunteers = yes
+			can_puppet = no
+			can_join_factions = no
+			can_force_government = no
+			can_access_market = no
+		}
+		can_host_government_in_exile = yes
+
+	}
+			Social_Democracy = {
+
+		types = {
+
+			Reconstruction_Social_Democracy = { }
+Patriotic_Social Democracy = { }
+Trade_Union_Parliamentarism = { }
+Cooperative_Socialism = { }
+Christian_Social Democracy = { }
+Democratic_Socialism = { }
+
+		}
+
+		color = { 229 132 4 }
+
+		war_impact_on_world_tension = 0.75	
+		faction_impact_on_world_tension = 0.5
+
+		ai_democratic = yes 
+		ai_ideology_wanted_units_factor = 1.20
+
+				rules = {
+			can_guarantee_other_ideologies = yes
+			can_send_volunteers = yes
+			can_puppet = no
+			can_join_factions = no
+			can_force_government = no
+			can_access_market = no
+		}
+		can_host_government_in_exile = yes
+
+	}
+
+	Liberalism = {
+
+		types = {
+
+
+Classical_Liberalism = { }
+Social_Liberalism = { }
+National_Liberalism = { }
+Exile_Liberalism = { }
+Federal_Liberalism = { }
+Civic_Republican Liberalism = { }
+Market_Liberalism = { }
+Radical_Liberalism = { }
+
+		}
+
+		color = { 50 88 138 }
+
+				rules = {
+			can_guarantee_other_ideologies = yes
+			can_send_volunteers = yes
+			can_puppet = no
+			can_join_factions = no
+			can_force_government = no
+			can_access_market = no
+		}
+
+		can_host_government_in_exile = yes
+
+		war_impact_on_world_tension = 0.25	
+		faction_impact_on_world_tension = 0.1
+
+
+		ai_democratic = yes 
+		ai_ideology_wanted_units_factor = 1.10 
+		
+	}
+		Conservatism = {
+
+		types = {
+
+
+Restoration_Conservatism = { }
+National_Conservatism = { }
+Catholic_Social Conservatism = { }
+Regional_Traditionalism = { }
+Agrarian_Constitutionalism = { }
+Aristocratic_Constitutionalism = { }
+Organic_Conservatism = { }
+Paternalistic_Conservatism = { }
+
+		}
+
+		color = { 67 100 119 }
+
+				rules = {
+			can_guarantee_other_ideologies = yes
+			can_send_volunteers = yes
+			can_puppet = no
+			can_join_factions = no
+			can_force_government = no
+			can_access_market = no
+		}
+
+		can_host_government_in_exile = yes
+
+		war_impact_on_world_tension = 0.25	
+		faction_impact_on_world_tension = 0.1
+
+
+		ai_democratic = yes 
+		ai_ideology_wanted_units_factor = 1.10 
+		
+	}
+		Authoritarian_Democracy = {
+
+		types = {
+
+Constitutional_Monarchy = { }
+Managed_Parliamentarism = { }
+National_Unity_Republicanism = { }
+Civic_Militarism = { }
+Emergency_Legalism = { }
+Presidential_Authoritarianism = { }
+Guided_Democracy = { }
+
+		}
+
+
+		color = { 96 96 96 }
+
+
+		war_impact_on_world_tension = 0.25	
+		faction_impact_on_world_tension = 0.1
+
+				rules = {
+			can_guarantee_other_ideologies = yes
+			can_send_volunteers = yes
+			can_puppet = no
+			can_join_factions = no
+			can_force_government = no
+			can_access_market = no
+		}
+
+
+		ai_neutral = yes 
+		ai_ideology_wanted_units_factor = 1.15
+		
+	}
+			Paternal_Autocracy = {
+
+		types = {
+
+Absolute_Monarchy = { }
+Praetorian_Monarchy = { }
+Royal_Regency = { }
+Military_Trusteeship = { }
+Developmental_Paternalism = { }
+Clerical_Paternalism = { }
+Estate_Corporatism = { }
+Warlord_Paternalism = { }
+
+		}
+
+
+		color = { 51 51 51 }
+
+
+		war_impact_on_world_tension = 0.25	
+		faction_impact_on_world_tension = 0.1
+		rules = {
+			can_guarantee_other_ideologies = yes
+			can_send_volunteers = yes
+			can_puppet = no
+			can_join_factions = no
+			can_force_government = no
+			can_access_market = no
+		}
+
+
+		ai_neutral = yes 
+		ai_ideology_wanted_units_factor = 1.15
+		
+	}
+			Third_position = {
+
+		types = {
+National_Bolshevism = { }
+Revolutionary_Corporatism = { }
+Strasserism = { }
+Anarcho_Capitalism = { }
+Communitarian_Nationalism = { }
+National_Syndicalism = { }
+Falangism = { }
+
+
+		}
+
+		color = { 0 0 0 }
+
+		war_impact_on_world_tension = 1.0		
+		faction_impact_on_world_tension = 1.0
+
+			rules = {
+			can_guarantee_other_ideologies = yes
+			can_send_volunteers = yes
+			can_puppet = no
+			can_join_factions = no
+			can_force_government = no
+			can_access_market = no
+		}
+
+
+		ai_fascist = yes 
+		ai_ideology_wanted_units_factor = 1.65
+		
+	}
+	Fascism = {
+
+		types = {
+Classical_Fascism = { }
+Corporate_Fascism = { }
+National_Socialism = { }
+Clerical_Fascism = { }
+Agrarian_Fascism = { }
+
+
+		}
+
+		color = { 64 64 64 }
+
+		war_impact_on_world_tension = 1.0		
+		faction_impact_on_world_tension = 1.0
+
+		rules = {
+			can_guarantee_other_ideologies = yes
+			can_send_volunteers = yes
+			can_puppet = no
+			can_join_factions = no
+			can_force_government = no
+			can_access_market = no
+		}
+
+
+		ai_fascist = yes 
+		ai_ideology_wanted_units_factor = 1.65
+		
+	}
+
+}
