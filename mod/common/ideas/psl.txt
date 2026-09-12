@@ -1,0 +1,93 @@
+ideas = {
+
+   country = {
+	PSL_Militarized_state = {
+	picture = 
+	traits = {
+			 }
+
+		allowed = {
+			always = no
+			tag = PSL
+		}
+		available = {}
+		cancel = {}
+
+		allowed_civil_war = {
+			always = yes
+		}
+
+        removal_cost = -1
+
+modifier = {
+    stability_factor = -0.25
+    war_support_factor = 0.40
+    consumer_goods_factor = -0.10
+    factory_output = 0.10
+    recruitable_population_factor = 0.15
+    army_org_factor = 0.35
+    division_attack_factor = 0.10
+    division_defence_factor = 0.10
+    supply_consumption_factor = -0.15
+	production_speed_industrial_complex_factor = -0.50
+    production_speed_arms_factory_factor = 0.50
+}
+	}
+  }
+     country = {
+	PSL_Exiled_government = {
+	picture = 
+	traits = {
+			 }
+
+		allowed = {
+			always = no
+			tag = PSL
+		}
+		available = {}
+		cancel = {}
+
+		allowed_civil_war = {
+			always = yes
+		}
+
+        removal_cost = -1
+
+modifier = {
+stability_factor = -0.30
+        political_power_gain = -0.15
+        surrender_limit = 0.20
+        political_power_cost_factor = 0.10
+        consumer_goods_factor = 0.05
+}
+	}
+  }
+PSL_Partisan_Network = {
+    picture = 
+
+
+		allowed = {
+			always = no
+			tag = PSL
+		}
+		available = {}
+		cancel = {}
+
+		allowed_civil_war = {
+			always = yes
+		}
+
+    removal_cost = -1
+
+
+    modifier = {
+        recruitable_population_factor = 0.10
+        conscription_factor = 0.5
+        subversive_activites_upkeep = -0.50
+        foreign_subversive_activites = -0.30
+        compliance_gain = 0.10
+		attack_bonus_against_PRL = 0.20    
+        defense_bonus_against_PRL = 0.25  
+}		
+}
+  }
