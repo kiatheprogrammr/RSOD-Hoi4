@@ -22,6 +22,11 @@ set_popularities = {
 	Fascism = 0
 	Third_position = 0
 }
+add_ideas = {
+		PSL_Militarized_state
+		PSL_Exiled_government
+		PSL_Partisan_Network
+	}
 
 
 
